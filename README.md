@@ -1,4 +1,1 @@
-# BaseSerialPortTool
-Base serial port tool template code.
-
-https://blog.csdn.net/sishuihuahua/article/details/84556901
+# 用来做串口和网络通讯自测软件用
